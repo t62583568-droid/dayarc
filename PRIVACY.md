@@ -49,6 +49,10 @@ Dayarc is not directed to children under 13 and does not knowingly collect infor
 
 Dayarc is a personal counter. It is not medical advice, diagnosis, or treatment, and it is not a substitute for professional care.
 
+## Limited Use
+
+Dayarc's use of information adheres to the Chrome Web Store User Data Policy, including the Limited Use requirements. Data is used only to provide the extension's single purpose, is never transferred to anyone, is never used for advertising, and is never read by humans.
+
 ## Changes
 
 If this policy changes, the updated version will be posted at this address with a new date. Any change that involves collecting data would require an update to the extension listing as well.
